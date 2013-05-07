@@ -21,10 +21,10 @@ Makefile
 # output & generated stuff
 bin
 lib
-GLSLCompiler/glslang/MachineIndependent/Gen_glslang.cpp
-GLSLCompiler/glslang/MachineIndependent/Gen_glslang_tab.cpp
-GLSLCompiler/glslang/MachineIndependent/glslang.output
-GLSLCompiler/glslang/MachineIndependent/glslang_tab.h
+#GLSLCompiler/glslang/MachineIndependent/Gen_glslang.cpp
+#GLSLCompiler/glslang/MachineIndependent/Gen_glslang_tab.cpp
+#GLSLCompiler/glslang/MachineIndependent/glslang.output
+#GLSLCompiler/glslang/MachineIndependent/glslang_tab.h
 
 # QT stuff
 moc_*.cxx
